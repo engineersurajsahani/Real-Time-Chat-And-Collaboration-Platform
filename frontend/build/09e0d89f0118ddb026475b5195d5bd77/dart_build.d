@@ -1,0 +1,1 @@
+ /Users/s.d./Downloads/CollabChat/frontend/build/09e0d89f0118ddb026475b5195d5bd77/dart_build_result.json:  /Users/s.d./Downloads/CollabChat/frontend/.dart_tool/package_config.json /Users/s.d./Downloads/CollabChat/frontend/pubspec.yaml /Users/s.d./development/flutter/bin/cache/dart-sdk/version
